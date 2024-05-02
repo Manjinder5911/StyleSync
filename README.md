@@ -15,13 +15,13 @@ To install **StyleSync**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Manjinder5911/StyleSync-ecommerce-website.git
+sudo git clone https://github.com/Manjinder5911/StyleSync.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Manjinder5911/StyleSync-ecommerce-website.git
+git clone https://github.com/Manjinder5911/StyleSync.git
 ```
 
 ## License
